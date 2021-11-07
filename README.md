@@ -1,1 +1,3 @@
-# mediakit
+# MEDIA KIT
+
+## Coin Logo
