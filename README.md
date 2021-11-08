@@ -8,7 +8,7 @@
 
 ## Brand Guidelines
 
-- Font 1: Bai Jamjuree (semi-bold / bold)
+- Font 1: <a href="https://github.com/cadsondemak/Bai-Jamjuree" target="_blank">Bai Jamjuree</a> (semi-bold / bold)
 - Font 2: IBM Plex Mono
 - Alternative Font: Pirata One
 - Main Color: #BB9645
