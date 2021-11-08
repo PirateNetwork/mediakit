@@ -16,9 +16,10 @@
 ### Pirate Chain Coin Logo
 
 | Pirate Logo Gold     | Pirate Logo Black     | Pirate Logo White     |
-| ------------- | ------------- | -------- |
+| :---:         |     :---:      |          :---: |
 | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Gold.png" alt="Coin Logo Gold" title="Coin Logo Gold" width="250"/>          | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Black.png" alt="Coin Logo Black" title="Coin Logo Black" width="250"/>        | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_White.png" alt="Coin Logo White" title="Coin Logo White" width="250"/>  |
-| png/svg     | png/svg     | png/svg     |
+| png/svg  | png/svg   | png/svg     |
+
 
 ### Pirate Chain Main Logo
 
@@ -35,7 +36,7 @@
 ### Pirate Chain P Logo
 
 | Pirate Logo Gold     | Pirate Logo Black     | Pirate Logo White     |
-| ------------- | ------------- | -------- |
+| :---:         |     :---:      |          :---: |
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_Gold.png" alt="P Logo Gold" title="P Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_Black.png" alt="P Logo Black" title="P Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_White.png" alt="P Logo White" title="P Logo White" width="250"/>  |
 
 ### Pirate Chain Ship Logo
@@ -47,11 +48,11 @@
 ### Pirate Chain Skull Logo
 
 | Pirate Skull Gold     | Pirate Skull Black     | Pirate Skull White     |
-| ------------- | ------------- | -------- |
+| :---:         |     :---:      |          :---: |
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Skull/PNG/Pirate_Logo_Skull_Gold.png" alt="Pirate Skull Logo Gold" title="Pirate Skull Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Skull/PNG/Pirate_Logo_Skull_Black.png" alt="Pirate Skull Logo Black" title="Pirate Skull Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Skull/PNG/Pirate_Logo_Skull_White.png" alt="Pirate Skull Logo White" title="Pirate Skull Logo White" width="250"/>  |
 
 ### Pirate Chain Wordmark
 
 | Pirate Wordmark Gold     | Pirate Wordmark Black     | Pirate Wordmark White     |
-| ------------- | ------------- | -------- |
+| :---:         |     :---:      |          :---: |
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_Gold.png" alt="Pirate Wordmark Gold" title="Pirate Wordmark Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_Black.png" alt="Pirate Wordmark Black" title="Pirate Wordmark Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_White.png" alt="Pirate Wordmark White" title="Pirate Wordmark White" width="250"/>  |
