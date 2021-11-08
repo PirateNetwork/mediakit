@@ -4,13 +4,13 @@
 
 <a href="https://pirate.black" target="_blank">Pirate Chain</a> is an open source development. Media, press professionals as well as merchants, service providers, contributors may freely use the logos and images.
 
-<strong>Please note the guidelines for reasons of corporate identity.</strong>
+<strong>Please note the <a href="https://github.com/PirateNetwork/mediakit/blob/main/PIRATE_DesignGuidelines.pdf" target="_blank">guidelines</a> for reasons of corporate identity.</strong>
 
 # Brand Guidelines
 
-Font 1: Bai Jamjuree (semi-bold / bold)
-Font 2: Roboto
-Alternative Font: Pirata One
-Main Colour: #BB9645
+- Font 1: Bai Jamjuree (semi-bold / bold)
+- Font 2: Roboto
+- Alternative Font: Pirata One
+- Main Colour: #BB9645
 
 ## Coin Logo
