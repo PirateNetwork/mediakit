@@ -42,3 +42,9 @@
 | Pirate Ship Gold     | Pirate Ship Black     | Pirate Ship White     |
 | ------------- | ------------- | -------- |
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Ship/PNG/Pirate_Logo_Ship_Gold.png" alt="Pirate Ship Logo Gold" title="Pirate Ship Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Ship/PNG/Pirate_Logo_Ship_Black.png" alt="Pirate Ship Logo Black" title="Pirate Ship Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Ship/PNG/Pirate_Logo_Ship_White.png" alt="Pirate Ship Logo White" title="Pirate Ship Logo White" width="250"/>  |
+
+### Pirate Chain Skull Logo
+
+| Pirate Skull Gold     | Pirate Skull Black     | Pirate Skull White     |
+| ------------- | ------------- | -------- |
+| <img src="https://github.com/PirateNetwork/mediakit/blob/main/Skull/PNG/Pirate_Logo_Skull_Gold.png" alt="Pirate Skull Logo Gold" title="Pirate Skull Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Skull/PNG/Pirate_Logo_Skull_Black.png" alt="Pirate Skull Logo Black" title="Pirate Skull Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Skull/PNG/Pirate_Logo_Skull_White.png" alt="Pirate Skull Logo White" title="Pirate Skull Logo White" width="250"/>  |
