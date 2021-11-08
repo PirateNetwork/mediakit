@@ -13,7 +13,7 @@
 - Alternative Font: Pirata One
 - Main Colour: #BB9645
 
-## Coin Logo
+## Pirate Chain Coin Logo
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Gold.png" alt="Coin Logo Gold" title="Coin Logo Gold" width="250"/>
