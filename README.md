@@ -6,7 +6,7 @@
 
 <strong>Please note the <a href="https://github.com/PirateNetwork/mediakit/blob/main/PIRATE_DesignGuidelines.pdf" target="_blank">guidelines</a> for reasons of corporate identity.</strong>
 
-# Brand Guidelines
+## Brand Guidelines
 
 - Font 1: Bai Jamjuree (semi-bold / bold)
 - Font 2: Roboto
