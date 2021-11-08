@@ -16,7 +16,7 @@
 ## Coin Logo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Gold.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Black.png" width="250"/>
-  <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_White.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Gold.png" alt="Coin Logo Gold" width="250"/>
+  <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Black.png" alt="Coin Logo Black" width="250"/>
+  <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_White.png" alt="Coin Logo White" width="250"/>
 </p>
