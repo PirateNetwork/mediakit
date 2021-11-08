@@ -22,5 +22,5 @@
 ### Pirate Chain Main Logo
 
 | First Header  | Second Header | Third Header  | Fourth Header |
-| ------------- | ------------- |
-| <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_BG.png" alt="Pirate Chain Main Logo Gold" title="Main Logo Gold" width="250"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_Black.png" alt="Pirate Chain Main Logo black" title="Main Logo Black" width="250"/>  |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_BG.png" alt="Pirate Chain Main Logo Gold" title="Main Logo Gold" width="200"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_Black.png" alt="Pirate Chain Main Logo black" title="Main Logo Black" width="200"/>  |
