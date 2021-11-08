@@ -21,6 +21,6 @@
 
 ### Pirate Chain Main Logo
 
-| First Header  | Second Header | Third Header  | Fourth Header |
+| Gold/Black  | Gold| Gold/White  | White |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_BG.png" alt="Pirate Chain Main Logo Gold" title="Main Logo Gold" width="200"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_Black.png" alt="Pirate Chain Main Logo black" title="Main Logo Black" width="200"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_BG.png" alt="Pirate Chain Main Logo Gold" title="Main Logo Gold" width="200"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_Black.png" alt="Pirate Chain Main Logo black" title="Main Logo Black" width="200"/>  |
+| <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_BG.png" alt="Pirate Chain Main Logo Gold" title="Main Logo Gold" width="200"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_Black.png" alt="Pirate Chain Main Logo black" title="Main Logo Black" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_WG.png" alt="Pirate Chain Main Logo Gold/White" title="Main Logo Gold/White" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_White.png" alt="Pirate Chain Main Logo white" title="Main Logo White" width="200"/>  |
