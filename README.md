@@ -15,7 +15,7 @@
 
 ### Pirate Chain Coin Logo
 
-| Pirate Logo Gold     | Pirate Logo black     | Pirate Logo white     |
+| Pirate Logo Gold     | Pirate Logo Black     | Pirate Logo White     |
 | ------------- | ------------- | -------- |
 | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Gold.png" alt="Coin Logo Gold" title="Coin Logo Gold" width="250"/>          | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Black.png" alt="Coin Logo Black" title="Coin Logo Black" width="250"/>        | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_White.png" alt="Coin Logo White" title="Coin Logo White" width="250"/>  |
 
@@ -33,6 +33,12 @@
 
 ### Pirate Chain P Logo
 
-| Pirate Logo Gold     | Pirate Logo black     | Pirate Logo white     |
+| Pirate Logo Gold     | Pirate Logo Black     | Pirate Logo White     |
 | ------------- | ------------- | -------- |
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_Gold.png" alt="P Logo Gold" title="P Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_Black.png" alt="P Logo Black" title="P Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_White.png" alt="P Logo White" title="P Logo White" width="250"/>  |
+
+### Pirate Chain Ship Logo
+
+| Pirate Ship Gold     | Pirate Ship Black     | Pirate Ship White     |
+| ------------- | ------------- | -------- |
+| <img src="https://github.com/PirateNetwork/mediakit/blob/main/Ship/PNG/Pirate_Logo_Ship_Gold.png" alt="Pirate Ship Logo Gold" title="Pirate Ship Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Ship/PNG/Pirate_Logo_Ship_Black.png" alt="Pirate Ship Logo Black" title="Pirate Ship Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Ship/PNG/Pirate_Logo_Ship_White.png" alt="Pirate Ship Logo White" title="Pirate Ship Logo White" width="250"/>  |
