@@ -30,3 +30,9 @@
 | Gold/Black  | Black | Gold/White  | White |
 | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Stacked/PNG/Pirate_Logo_Stacked_BG.png" alt="Pirate Chain Stacked Logo Gold" title="Stacked Logo Gold" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Stacked/PNG/Pirate_Logo_Stacked_Black.png" alt="Pirate Chain Stacked Logo black" title="Main Logo Black" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Stacked/PNG/Pirate_Logo_Stacked_WB.png" alt="Pirate Chain Stacked Logo Gold/White" title="Stacked Logo Gold/White" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Stacked/PNG/Pirate_Logo_Stacked_White.png" alt="Pirate Chain Stacked Logo white" title="Stacked Logo White" width="200"/>  |
+
+### Pirate Chain P Logo
+
+| Pirate Logo Gold     | Pirate Logo black     | Pirate Logo white     |
+| ------------- | ------------- | -------- |
+| <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_Gold.png" alt="P Logo Gold" title="P Logo Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_Black.png" alt="P Logo Black" title="P Logo Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/P%20Logo/PNG/Pirate_Logo_P_White.png" alt="P Logo White" title="P Logo White" width="250"/>  |
