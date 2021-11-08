@@ -20,3 +20,8 @@
   <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Black.png" alt="Coin Logo Black" title="Coin Logo Black" width="250"/>
   <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_White.png" alt="Coin Logo White" title="Coin Logo White" width="250"/>
 </p>
+
+| Logo Gold     | Logo black     | Logo white     |
+| ------------- | ------------- | -------- |
+| <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Gold.png" alt="Coin Logo Gold" title="Coin Logo Gold" width="250"/>          | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_Black.png" alt="Coin Logo Black" title="Coin Logo Black" width="250"/>        | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Coin/PNG/Pirate_Logo_Coin_White.png" alt="Coin Logo White" title="Coin Logo White" width="250"/>  |
+| Bob           | Test2         | Toronto  |
