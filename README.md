@@ -26,7 +26,7 @@
 | Gold/Black  | Black | Gold/White  | White |
 | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_BG.png" alt="Pirate Chain Main Logo Gold" title="Main Logo Gold" width="200"/>  | <img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Logo%20Main/PNG/Pirate_Logo_Black.png" alt="Pirate Chain Main Logo black" title="Main Logo Black" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_WG.png" alt="Pirate Chain Main Logo Gold/White" title="Main Logo Gold/White" width="200"/>  | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_White.png" alt="Pirate Chain Main Logo white" title="Main Logo White" width="200"/>  |
-| png/svg  | png/svg   | png/svg   |  png/svg   |
+| <a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_BG.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/SVG/Pirate_Logo_BG.svg">svg</a>    | <a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_Black.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Coin/SVG/Pirate_Logo_Coin_White.svg">svg</a>     | <a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_WG.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/SVG/Pirate_Logo_WG.svg">svg</a>     |  <a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/PNG/Pirate_Logo_White.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Logo%20Main/SVG/Pirate_Logo_White.svg">svg</a>     |
 
 ### Pirate Chain Logo Stacked
 
