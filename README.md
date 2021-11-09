@@ -65,8 +65,8 @@
 
 ### Pirate Chain Marketing Ressources
 
-Pirate Chain Website: https://pirate.black
-Pirate Discord: https://pirate.black/discord
-Mail: marketing@pirate.black
+- Pirate Chain Website: https://pirate.black
+- Pirate Discord: https://pirate.black/discord
+- Mail: marketing@pirate.black
 
-ARRRmada Website: https://arrrmada.com
+- ARRRmada Website: https://arrrmada.com
