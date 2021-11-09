@@ -63,6 +63,10 @@
 | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_Gold.png" alt="Pirate Wordmark Gold" title="Pirate Wordmark Gold" width="250"/>          | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_Black.png" alt="Pirate Wordmark Black" title="Pirate Wordmark Black" width="250"/>        | <img src="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_White.png" alt="Pirate Wordmark White" title="Pirate Wordmark White" width="250"/>  |
 | <a href="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_Gold.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/SVG/Pirate_Logo_Wordmark_Gold.svg">svg</a>  | <a href="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_Black.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/SVG/Pirate_Logo_Wordmark_Black.svg">svg</a>   | <a href="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/PNG/Pirate_Logo_Wordmark_White.png">png</a>/<a href="https://github.com/PirateNetwork/mediakit/blob/main/Wordmark/SVG/Pirate_Logo_Wordmark_White.svg">svg</a>     |
 
+## Pirate $ARRR accepted here
+
+<img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/ARRRaccepted/pirateacceptedhere.png" title="Pirate ARRR accepted here">
+
 ### Pirate Chain Marketing Ressources
 
 - Pirate Chain Website: https://pirate.black
@@ -70,7 +74,3 @@
 - Mail: marketing@pirate.black
 
 - ARRRmada Website: https://arrrmada.com
-
-## Pirate $ARRR accepted here
-
-<img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/ARRRaccepted/pirateacceptedhere.png" title="Pirate ARRR accepted here">
