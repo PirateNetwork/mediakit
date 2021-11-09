@@ -70,3 +70,7 @@
 - Mail: marketing@pirate.black
 
 - ARRRmada Website: https://arrrmada.com
+
+## Pirate $ARRR accepted here
+
+<img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/ARRRaccepted/pirateacceptedhere.png" title="Pirate ARRR accepted here">
