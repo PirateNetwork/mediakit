@@ -1,6 +1,6 @@
 # Pirate Chain Official Media Kit
 
-<img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Wordmark/PNG/Pirate_Logo_Wordmark_Black.png" title="Pirate Chain Wordmark">
+<img src="https://raw.githubusercontent.com/PirateNetwork/mediakit/main/Wordmark/PNG/Pirate_Logo_Wordmark_Gold.png" title="Pirate Chain Wordmark">
 
 <a href="https://pirate.black" target="_blank" title="Official website pirate.black">Pirate Chain</a> is an open source development. Media, press professionals as well as merchants, service providers, contributors may freely use the logos, images, <a href="https://github.com/PirateNetwork/mediakit/tree/main/Backgrounds" target="_blank" title="Pirate Chain Backgrounds and Wallpapers">backgrounds</a> and <a href="https://github.com/PirateNetwork/mediakit/tree/main/Banner" target="_blank" title="Pirate Chain Banner">banner</a>.
 
